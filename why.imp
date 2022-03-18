@@ -1,0 +1,52 @@
+# 'Program Name'
+
+(
+  Types:
+  - numbers
+  - strings
+  - boolean
+  - structs!
+  - lists
+
+  Statements:
+  - assign {itself or a property}
+  - add {to list}
+  - input/output
+  - if/elseif/else
+  - perform
+  - some loops:
+    - repeat
+    - repeat unless
+    - repeat while
+
+  make sure to implement "not" for booleans
+)
+
+Assign 1 to FirstVariable.
+Assign 1 to 'First Variable'. (this is a comment)
+
+Repeat perform 'Procedure Name' while FirstVariable is not equal to 10.
+Repeat assign 'First Variable' plus 1 to 'First Variable' while 'First Variable' is less than 10.
+
+Output FirstVariable.    (10)
+Output 'First Variable'. (10)
+
+Assign "Hello, World!" to 'some string or text'.
+Output 'some string or text'. (Hello, World!)
+(
+Assign 20 to player's health.
+Assign 10 to player's mana.
+Output player's health.
+Output player's mana.
+)
+Add "Zebra" to animals.
+Add "Lion" to animals.
+Output 1 of animals. (Zebra)
+Output 2 of animals. (Lion)
+
+(greater than or equal to)
+(If 3 is greater than 2 output "3 is not less than 2" else output "3 is less than 2".)
+
+# 'Procedure Name'
+
+Assign FirstVariable plus 1 to FirstVariable.

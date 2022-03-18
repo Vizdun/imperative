@@ -1,0 +1,19 @@
+# FizzBuz
+
+Assign 1 to Counter.
+Repeat perform Loop while Counter is less than 100.
+
+# Loop
+
+Assign Counter modulo 3 to Fizz.
+Assign Counter modulo 5 to Buzz.
+
+If Fizz is equal to 0 and Buzz is not equal to 0 then output "Fizz".
+
+If Fizz is not equal to 0 and Buzz is equal to 0 then output "Buzz".
+
+If Fizz is equal to 0 and Buzz is equal to 0 then output "FizzBuzz".
+
+If Fizz is not equal to 0 and Buzz is not equal to 0 then output Counter.
+
+Assign Counter plus 1 to Counter.

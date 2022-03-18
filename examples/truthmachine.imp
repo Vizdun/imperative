@@ -1,0 +1,11 @@
+# 'Truth Machine'
+
+Input in.
+
+If in is equal to 0 then output 0.
+
+If in is equal to 1 then perform True.
+
+# True
+
+Repeat output 1.
